@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/amdigbari/semantic-release-example/compare/v1.3.2...v1.3.3) (2021-01-16)
+
+
+### Bug Fixes
+
+* add private to package.json file ([e47576e](https://github.com/amdigbari/semantic-release-example/commit/e47576eb7a0f029a83a7d0e6ce8a454cc42cb7d8))
+
 ## [1.3.2](https://github.com/amdigbari/semantic-release-example/compare/v1.3.1...v1.3.2) (2021-01-16)
 
 
