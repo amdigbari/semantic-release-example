@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/amdigbari/semantic-release-example/compare/v1.3.3...v1.3.4) (2021-01-16)
+
+
+### Bug Fixes
+
+* add npm to releaserc ([17a3cd7](https://github.com/amdigbari/semantic-release-example/commit/17a3cd7efbcc2a786e9d671141b75ce10ea35930))
+
 ## [1.3.3](https://github.com/amdigbari/semantic-release-example/compare/v1.3.2...v1.3.3) (2021-01-16)
 
 
